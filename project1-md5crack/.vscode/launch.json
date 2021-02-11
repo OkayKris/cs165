@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "D:/0SCHOOL/WINTER-2021-SENIOR-YEAR/CS165-CompSec/project1/project1-md5crack/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "D:/0SCHOOL/WINTER-2021-SENIOR-YEAR/CS165-CompSec/project1/project1-md5crack",
+            "environment": [],
+            "externalConsole": false
+        }
+       
+    ]
+}
