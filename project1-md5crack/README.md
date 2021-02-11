@@ -8,11 +8,13 @@ To run: ./a
 ## Show the correct password for your team user
 
 team53:\$1\$4fTgjp6q\$V04wTfbgvUGa4aY0xtvq2/:16653:0:99999:7::: 
+
 Password cracked: hfhugt
 
 ## Source Code
 
 The source code is found in md5crack.cpp
+
 Md5.cpp and md5.h are helper files found from http://www.zedwood.com/article/cpp-md5-function
 
 ## The number of threads/processes is used
