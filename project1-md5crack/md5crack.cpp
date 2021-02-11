@@ -121,7 +121,7 @@ string to64(unsigned int holder, int length){
 string crackpot (string encrypted){ //team40 : $1$  4fTgjp6q$  dAWRGFC9ioSIQsJ6tCRTA. switching to team53: V04wTfbgvUGa4aY0xtvq2/
 	//error: skips periods sometimes? dunno why
 	//ERRORFIX: Fixed to64 function
-	string HASH = "dAWRGFC9ioSIQsJ6tCRTA."; 
+	string HASH = "V04wTfbgvUGa4aY0xtvq2/"; 
 	string password = encrypted;
 	string salt = "4fTgjp6q"; 
 	string magic = "$1$";
