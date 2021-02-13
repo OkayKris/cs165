@@ -6,6 +6,7 @@ Completion of this project demonstrated basic assembly language knowledge, stack
 # Specifications
 
 Operating system: Windows 10 Education
+
 Software used: IDA Pro
 
 ## Part 1 - Local Authentication Bypass - CTF
